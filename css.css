@@ -157,7 +157,7 @@ header #btn_menu:hover{
   top: 50%;
   transform: translateY(-50%);
   font-size: 25px;
-  font-family: 'Righteous', cursive;
+  font-family: monospace;
   text-align: center;
   border-radius: 50%;
   color:yellow;
